@@ -15,5 +15,6 @@ We apply different kernels and different type of margin in SVM to find an optima
 
 - Task three is to choose one among all trained SVMs as the target SVM. Build up a complete SVM with proper input and output function which is totally ready for application.
 
+<img width="854" alt="截屏2021-05-21 下午8 49 15" src="https://user-images.githubusercontent.com/65494921/119139841-0eac1d00-ba76-11eb-8db3-19ba2b3a27be.png">
 
 
