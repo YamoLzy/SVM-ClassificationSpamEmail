@@ -8,13 +8,15 @@
 
 #### Task
 
-- Task one is to train a SVM. 
+(1)Task one is to train a SVM. 
 We apply different kernels and different type of margin in SVM to find an optimal hyperplane. This step can be regarded as constructing a SVM. We need to construct SVMs under all kinds of situations with different kernels and margins in this stage. 
 
-- Task two is to test a trained SVM. In this step, we need to feed both training data and test data into a trained SVM in task one, and then compute and record SVMs’ classification accuracy under all situations. 
+(2)Task two is to test a trained SVM. In this step, we need to feed both training data and test data into a trained SVM in task one, and then compute and record SVMs’ classification accuracy under all situations. 
 
-- Task three is to choose one among all trained SVMs as the target SVM. Build up a complete SVM with proper input and output function which is totally ready for application.
+(3)Task three is to choose one among all trained SVMs as the target SVM. Build up a complete SVM with proper input and output function which is totally ready for application.
 
+
+- We got the results as follows:
 <img width="854" alt="截屏2021-05-21 下午8 49 15" src="https://user-images.githubusercontent.com/65494921/119139841-0eac1d00-ba76-11eb-8db3-19ba2b3a27be.png">
 
 
